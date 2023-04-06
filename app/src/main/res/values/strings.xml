@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Emobilis App</string>
+    <string name="tv_title_txt"><u>Simple Calculator</u></string>
+    <string name="Answer"><u>0.00</u></string>
+    <string-array name="contacts">
+        <item>Josiah</item>
+        <item>James</item>
+        <item>Lorna</item>
+        <item>Khisia</item>
+        <item>Victoria</item>
+        <item>Tapiwa</item>
+        <item>Ephraim</item>
+        <item>Abdifatah</item>
+        <item>Donald</item>
+        <item>Clinton</item>
+        <item>Patrick</item>
+        <item>Janet</item>
+        <item>Elsy</item>
+        <item>Leah</item>
+        <item>Bobby</item>
+        <item>Jared</item>
+        <item>Karen</item>
+        <item>Dennis</item>
+        <item>Glory</item>
+        <item>Janice</item>
+        <item>Ryan</item>
+    </string-array>
+</resources>
